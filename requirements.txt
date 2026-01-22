@@ -1,0 +1,5 @@
+# SynToMid + FL Studio JSON Export
+# Dependencies for MIDI and JSON conversion
+
+mido>=1.2.10
+numpy>=1.21.0
